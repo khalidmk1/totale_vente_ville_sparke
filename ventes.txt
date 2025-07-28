@@ -1,0 +1,6 @@
+2022-01-01 Paris Laptop 1200
+2022-01-02 Paris Smartphone 800
+2022-01-01 Lyon Laptop 1000
+2022-01-03 Marseille TV 700
+2022-01-03 Paris TV 900
+2022-01-04 Lyon Smartphone 600
